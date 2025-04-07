@@ -1,0 +1,36 @@
+.body {
+    background-image: url(resources/widescreengoldfield.png);
+}
+
+.textspace {
+    text-align: center;
+    background-color: grey;
+    padding: 1em;
+    border: 5px solid black;
+    max-width: 800px; /* Limit how wide it can go */
+    margin: 20px auto; /* Center the box */
+}
+
+a {
+    color: black;
+    -webkit-text-stroke: 0.5px blue;
+    text-decoration: none;   
+}
+
+p {
+    color: white;
+}
+
+.kozakimage {
+    display: flex;
+    justify-content: center;
+}
+
+.bodytwo {
+    text-align: center;
+    background-color: grey;
+    padding: 1em;
+    border: 5px solid black;
+    max-width: 800px; /* Limit how wide it can go */
+    margin: 20px auto; /* Center the box */
+}
